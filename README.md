@@ -5,7 +5,7 @@ DOSBOX can be used to execute the given codes.
 
 The following codes are in .asm format. To execute the code you need to do the following steps:-
 
-1)Navigate to the MASM folder.
+1) Navigate to the MASM folder.
 
 2) Do "masm filename.asm"
 
